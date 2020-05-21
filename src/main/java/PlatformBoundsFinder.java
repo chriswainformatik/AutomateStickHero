@@ -4,7 +4,7 @@ import java.awt.image.BufferedImage;
  * This class is used to get the bounds of the black platforms of the Android game Stick Hero.
  * To do this you have to set a screenshot image first.
  */
-public class PlatformBoundFinder {
+public class PlatformBoundsFinder {
     private BufferedImage screenshot;
     private RGBValue[][] pixelValues;
 
